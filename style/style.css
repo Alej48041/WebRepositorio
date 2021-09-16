@@ -39,10 +39,21 @@
 .titulo{
     color: black;
     font-size: 30px;
-    padding: 0px 78px;
     font-weight: initial;
     font-family:sans-serif;
     margin-left: 45px;
+    line-height: 90px;
+    line-height: 90px;
+    padding: 30px 15px 18px 120px;
+
+}
+.img-tit{
+        width: 78px;
+        height: 60px;
+        display: block;
+        float: right;
+        padding-top: 10px;
+    
 
 }
 .items{
@@ -308,3 +319,4 @@ text-align: center;
     border-radius: 15px;
     border: 2px solid black;
 }
+
