@@ -138,3 +138,20 @@ color: red;
 .con-silver-lis P{
 font-size: 20px;
 }
+.cont-quienes-1{
+    display: block;
+    float:left
+}
+.img-en{
+    border-radius: 15px;
+    border: 3px solid black;
+}
+.envios h1{
+    text-align: center;
+    font-size: 50px;
+ 
+}
+.envios h3{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
